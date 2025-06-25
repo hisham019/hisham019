@@ -2,11 +2,11 @@
 
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%" />
 
-### أهلاً وسهلاً 👋، أنا هشام الصالحي
+### مرحباً، أنا هشام الصالحي
 مبرمج C++ من اليمن 🇾🇪  
-هاوي برمجة وأنظمة لينكس ومهتم بتقنية المعلومات
+هاوي برمجة ومهتم بتقنية المعلومات
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace"  width="40%"/>
+
 
 </div>
 
