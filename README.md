@@ -6,6 +6,8 @@
 مبرمج C++ من اليمن 🇾🇪  
 هاوي برمجة ومهتم بتقنية المعلومات 💻🧠
 
+![Profile Views](https://komarev.com/ghpvc/?username=your-username&style=flat&color=orange&label=PROFILE+VIEWS)
+
 </div>
 
 ---
@@ -19,7 +21,7 @@
 
 ### 🧰 الأدوات واللغات اللي أستخدمها:
 
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)  
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)
 
 ---
@@ -32,7 +34,6 @@
 </div>
 
 
-
 ---
 
 ### ☕ للتواصل معي:
@@ -40,6 +41,4 @@
 [![Gmail](https://img.shields.io/badge/Gmail-hishamhanialsalhi@gmail.com-red?style=flat&logo=gmail&logoColor=white)](mailto:hishamhanialsalhi@gmail.com)
 
 ---
-
-
 
