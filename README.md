@@ -2,11 +2,9 @@
 
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%" />
 
-### مرحباً، أنا هشام الصالحي
+### مرحباً، أنا هشام الصالحي  
 مبرمج C++ من اليمن 🇾🇪  
-هاوي برمجة ومهتم بتقنية المعلومات
-
-
+هاوي برمجة ومهتم بتقنية المعلومات 💻🧠
 
 </div>
 
@@ -24,24 +22,24 @@
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)
 
-
 ---
 
-### 📈 إحصائياتي في GitHub
+### 📈 إحصائياتي في GitHub:
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dark&count_private=true" width="49%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=dark" width="49%">
+<img src="https://github-readme-stats.vercel.app/api?username=hisham019&show_icons=true&theme=dark&count_private=true" width="49%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hisham019&layout=compact&theme=dark" width="49%">
 </div>
+
+
 
 ---
 
 ### ☕ للتواصل معي:
 
-[![Gmail](https://img.shields.io/badge/Gmail-%2312100E.svg?&style=flat&logo=gmail&logoColor=white)](mailto:hishamhanialsalhi@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-hishamhanialsalhi@gmail.com-red?style=flat&logo=gmail&logoColor=white)](mailto:hishamhanialsalhi@gmail.com)
 
 ---
 
 
 
-</div>
