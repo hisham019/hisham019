@@ -6,7 +6,7 @@
 مبرمج C++ من اليمن 🇾🇪  
 هاوي برمجة ومهتم بتقنية المعلومات 💻🧠
 
-![Profile Views](https://komarev.com/ghpvc/?username=your-username&style=flat&color=orange&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=hisham019&style=flat&color=orange&label=PROFILE+VIEWS)
 
 </div>
 
@@ -33,12 +33,12 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hisham019&layout=compact&theme=dark" width="49%">
 </div>
 
-
 ---
 
 ### ☕ للتواصل معي:
 
-[![Gmail](https://img.shields.io/badge/Gmail-hishamhanialsalhi@gmail.com-red?style=flat&logo=gmail&logoColor=white)](mailto:hishamhanialsalhi@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-hishamhanialsalhi@gmail.com-red?style=flat&logo=gmail&logoColor=white)](mailto:hishamhanialsalhi@gmail.com)  
+[![Instagram](https://img.shields.io/badge/Instagram-h0__.19-purple?style=flat&logo=instagram&logoColor=white)](https://instagram.com/h0__.19)
 
 ---
 
